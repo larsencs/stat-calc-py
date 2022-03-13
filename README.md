@@ -13,10 +13,10 @@ Given the option to have completely open notes in my Introduction to Statistics 
 
 ### Roadmap
 
--[] Re-factor to combine similar functions
--[] Fix CLT functions
--[] Expand CLI interface
--[] ASCII Art. Because.
+- [] Re-factor to combine similar functions
+- [] Fix CLT functions
+- [] Expand CLI interface
+- [] ASCII Art. Because.
 
 
 
