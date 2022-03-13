@@ -1,4 +1,5 @@
 <div id=top></div>
+[![Python](https://img.shields.io/badge/python-3.6-blue)]
 <div align="center">
     <h1 align="center">Basic Statistics Calculator</h1>
 </div>
