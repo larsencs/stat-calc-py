@@ -1,8 +1,9 @@
+![Python](https://img.shields.io/badge/python-3.6-blue)
 <div id=top></div>
 
 <div align="center">
     <h1 align="center">Basic Statistics Calculator</h1>
-    ![Python](https://img.shields.io/badge/python-3.6-blue)
+    
 </div>
 
 ## About The Project
